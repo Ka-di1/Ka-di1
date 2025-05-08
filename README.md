@@ -5,9 +5,8 @@
 MS in Genomics and Bioinformatics from Mohammed V university, Morocco
 
 ## 🔧 Technical Skills
-- **Bioinformatics Tools:** Genome Assembly, dada2 
+- **Data Analysis:** Genome Assembly, bulk RNAseq analysis
 - **Programming/Scripting:** R, Bash
-- **Data Analysis:** Statistical Analysis
 - **High-Performance Computing:** HPC system
-- **Laboratory Skills:** DNA Extraction, PCR, Sanger sequencing, Cell culture, MTT aasay, and more.
+- **Laboratory Skills:** DNA Extraction, PCR, Sanger sequencing, Cell culture, MTT aasays, and more.
 
